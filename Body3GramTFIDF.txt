@@ -1,0 +1,178 @@
+ ------------------- Processing :  ['New Sorting/Export preferences']
+trigrams PR:  1
+Features :  ['new sorting export', 'sorting export preferences']
+X1 :  [[1 1]]
+TFIDF PR:  1
+Scores :  [[0.70710678 0.70710678]]
+top ranking features PR:  1
+Words head :                           term      rank
+0          new sorting export  0.707107
+1  sorting export preferences  0.707107
+ ------------------- Processing :  ['This add new File Sorting Tab preferences allows exactly specify sort export order entries rather rather limited set choices available date .']
+trigrams PR:  1
+Features :  ['add new file', 'allows exactly specify', 'choices available date', 'entries rather rather', 'exactly specify sort', 'export order entries', 'file sorting tab', 'limited set choices', 'new file sorting', 'order entries rather', 'preferences allows exactly', 'rather limited set', 'rather rather limited', 'set choices available', 'sort export order', 'sorting tab preferences', 'specify sort export', 'tab preferences allows', 'this add new']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  1
+Scores :  [[0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
+  0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
+  0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
+  0.22941573]]
+top ranking features PR:  1
+Words head :                            term      rank
+0                 add new file  0.229416
+10  preferences allows exactly  0.229416
+17      tab preferences allows  0.229416
+16         specify sort export  0.229416
+15     sorting tab preferences  0.229416
+14           sort export order  0.229416
+13       set choices available  0.229416
+ ------------------- Processing :  ['I implemented 2 features requested Ticket # 841 .']
+trigrams PR:  7
+Features :  ['features requested ticket', 'implemented features requested', 'requested ticket 841']
+X1 :  [[1 1 1]]
+TFIDF PR:  7
+Scores :  [[0.57735027 0.57735027 0.57735027]]
+top ranking features PR:  7
+Words head :                               term     rank
+0       features requested ticket  0.57735
+1  implemented features requested  0.57735
+2            requested ticket 841  0.57735
+ ------------------- Processing :  ['The user specify arbitrary number file-link columns te Entry table columns preferences tab added main table . The user file types specified list External File Types . The extra columns work exactly like original file-link column . For file-link column whenever multiple files letter displayed bottom right corner icon . Committer : noravanq On branch master Changes committed : ( use git reset HEAD < file > ... unstage ) modified : src/main/java/net/sf/jabref/GUIGlobals.java modified : src/main/java/net/sf/jabref/JabRefPreferences.java modified : src/main/java/net/sf/jabref/TableColumnsTab.java modified : src/main/java/net/sf/jabref/gui/MainTableFormat.java modified : src/main/java/net/sf/jabref/gui/MainTableSelectionListener.java modified : src/main/java/net/sf/jabref/gui/PreventDraggingJTableHeader.java']
+trigrams PR:  7
+Features :  ['added main table', 'arbitrary number file', 'bottom right corner', 'branch master changes', 'changes committed use', 'column for file', 'column whenever multiple', 'columns preferences tab', 'columns te entry', 'columns work exactly', 'committed use git', 'committer noravanq on', 'corner icon committer', 'displayed bottom right', 'entry table columns', 'exactly like original', 'external file types', 'extra columns work', 'file link column', 'file link columns', 'file types specified', 'file types the', 'file unstage modified', 'files letter displayed', 'for file link', 'git reset head', 'gui maintableformat java', 'gui maintableselectionlistener java', 'gui preventdraggingjtableheader java', 'guiglobals java modified', 'head file unstage', 'icon committer noravanq', 'jabref gui maintableformat', 'jabref gui maintableselectionlistener', 'jabref gui preventdraggingjtableheader', 'jabref guiglobals java', 'jabref jabrefpreferences java', 'jabref tablecolumnstab java', 'jabrefpreferences java modified', 'java modified src', 'java net sf', 'letter displayed bottom', 'like original file', 'link column for', 'link column whenever', 'link columns te', 'list external file', 'main java net', 'main table the', 'maintableformat java modified', 'maintableselectionlistener java modified', 'master changes committed', 'modified src main', 'multiple files letter', 'net sf jabref', 'noravanq on branch', 'number file link', 'on branch master', 'original file link', 'preferences tab added', 'reset head file', 'right corner icon', 'sf jabref gui', 'sf jabref guiglobals', 'sf jabref jabrefpreferences', 'sf jabref tablecolumnstab', 'specified list external', 'specify arbitrary number', 'src main java', 'tab added main', 'table columns preferences', 'table the user', 'tablecolumnstab java modified', 'te entry table', 'the extra columns', 'the user file', 'the user specify', 'types specified list', 'types the extra', 'unstage modified src', 'use git reset', 'user file types', 'user specify arbitrary', 'whenever multiple files', 'work exactly like']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 5 6 1 1 1 1 1 1 6 1 1 1 1 6 1 6 1 1 1 1 1 1 1 3 1 1 1 1 1 6 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  7
+Scores :  [[0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.1164445  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.29111125 0.34933351 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.34933351
+  0.05822225 0.05822225 0.05822225 0.05822225 0.34933351 0.05822225
+  0.34933351 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.17466675 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.34933351 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
+  0.05822225]]
+top ranking features PR:  7
+Words head :                   term      rank
+47      main java net  0.349334
+40        java net sf  0.349334
+68      src main java  0.349334
+52  modified src main  0.349334
+54      net sf jabref  0.349334
+39  java modified src  0.291111
+62      sf jabref gui  0.174667
+ ------------------- Processing :  ['try fix obvious bugs groups']
+trigrams PR:  10
+Features :  ['fix obvious bugs', 'obvious bugs groups', 'try fix obvious']
+X1 :  [[1 1 1]]
+TFIDF PR:  10
+Scores :  [[0.57735027 0.57735027 0.57735027]]
+top ranking features PR:  10
+Words head :                    term     rank
+0     fix obvious bugs  0.57735
+1  obvious bugs groups  0.57735
+2      try fix obvious  0.57735
+ ------------------- Processing :  ['Hi All I upgraded 2.10 I found bugs immediately . 1. right-click-menu move-to-group 2 remove group instead . 2 . I like new add/remove/move panel scrolling working big problem . Because I lots groups even fit full screen height expansion . 3. way expand collapse nodes I tried dev version problems still exist . Here fixation . Cheers W.L .']
+trigrams PR:  10
+Features :  ['10 found bugs', 'add remove move', 'all upgraded 10', 'because lots groups', 'big problem because', 'bugs immediately right', 'click menu move', 'collapse nodes tried', 'dev version problems', 'even fit full', 'exist here fixation', 'expand collapse nodes', 'expansion way expand', 'fit full screen', 'found bugs immediately', 'full screen height', 'group instead like', 'group remove group', 'groups even fit', 'height expansion way', 'here fixation cheers', 'hi all upgraded', 'immediately right click', 'instead like new', 'like new add', 'lots groups even', 'menu move to', 'move panel scrolling', 'move to group', 'new add remove', 'nodes tried dev', 'panel scrolling working', 'problem because lots', 'problems still exist', 'remove group instead', 'remove move panel', 'right click menu', 'screen height expansion', 'scrolling working big', 'still exist here', 'to group remove', 'tried dev version', 'upgraded 10 found', 'version problems still', 'way expand collapse', 'working big problem']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  10
+Scores :  [[0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
+  0.14744196 0.14744196 0.14744196 0.14744196]]
+top ranking features PR:  10
+Words head :                      term      rank
+0          10 found bugs  0.147442
+34  remove group instead  0.147442
+25      lots groups even  0.147442
+26          menu move to  0.147442
+27  move panel scrolling  0.147442
+28         move to group  0.147442
+29        new add remove  0.147442
+ ------------------- Processing :  ['BugFix bug # 880 PubMed Import broken']
+trigrams PR:  11
+Features :  ['880 pubmed import', 'bug 880 pubmed', 'bugfix bug 880', 'pubmed import broken']
+X1 :  [[1 1 1 1]]
+TFIDF PR:  11
+Scores :  [[0.5 0.5 0.5 0.5]]
+top ranking features PR:  11
+Words head :                     term  rank
+0     880 pubmed import   0.5
+1        bug 880 pubmed   0.5
+2        bugfix bug 880   0.5
+3  pubmed import broken   0.5
+ ------------------- Processing :  ['Found bug : PubMed/Medline PLAIN format recognized RIS format . Provided solution : - Modified RIS ImportFilter . Now RIS format identified looking TY tag ( mandatory tag RIS format conflictual filters ) - Added new ImportFilter MedlinePlain . This import filter parses Medline files plain format ( XML ) . The import filter produced referring official Medline documentation ( http : //www.nlm.nih.gov/bsd/mms/medlineelements.html ) - Updated net.sf.jabref.core plugin.xml file order include newly added MedlinePlain import filter']
+trigrams PR:  11
+Features :  ['added medlineplain import', 'added new importfilter', 'bsd mms medlineelements', 'bug pubmed medline', 'conflictual filters added', 'core plugin xml', 'documentation http www', 'file order include', 'files plain format', 'filter parses medline', 'filter produced referring', 'filters added new', 'format conflictual filters', 'format identified looking', 'format provided solution', 'format recognized ris', 'format xml the', 'found bug pubmed', 'gov bsd mms', 'html updated net', 'http www nlm', 'identified looking ty', 'import filter parses', 'import filter produced', 'importfilter medlineplain this', 'importfilter now ris', 'include newly added', 'jabref core plugin', 'looking ty tag', 'mandatory tag ris', 'medline documentation http', 'medline files plain', 'medline plain format', 'medlineelements html updated', 'medlineplain import filter', 'medlineplain this import', 'mms medlineelements html', 'modified ris importfilter', 'net sf jabref', 'new importfilter medlineplain', 'newly added medlineplain', 'nih gov bsd', 'nlm nih gov', 'now ris format', 'official medline documentation', 'order include newly', 'parses medline files', 'plain format recognized', 'plain format xml', 'plugin xml file', 'produced referring official', 'provided solution modified', 'pubmed medline plain', 'recognized ris format', 'referring official medline', 'ris format conflictual', 'ris format identified', 'ris format provided', 'ris importfilter now', 'sf jabref core', 'solution modified ris', 'tag mandatory tag', 'tag ris format', 'the import filter', 'this import filter', 'ty tag mandatory', 'updated net sf', 'www nlm nih', 'xml file order', 'xml the import']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  11
+Scores :  [[0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
+  0.11952286 0.11952286 0.11952286 0.11952286]]
+top ranking features PR:  11
+Words head :                                term      rank
+0        added medlineplain import  0.119523
+44  official medline documentation  0.119523
+50     produced referring official  0.119523
+49                 plugin xml file  0.119523
+48                plain format xml  0.119523
+47         plain format recognized  0.119523
+46            parses medline files  0.119523
+ ------------------- Processing :  ['Make ( un ) abbreviating journal titles also work journaltitle field']
+trigrams PR:  15
+Features :  ['abbreviating journal titles', 'also work journaltitle', 'journal titles also', 'make un abbreviating', 'titles also work', 'un abbreviating journal', 'work journaltitle field']
+X1 :  [[1 1 1 1 1 1 1]]
+TFIDF PR:  15
+Scores :  [[0.37796447 0.37796447 0.37796447 0.37796447 0.37796447 0.37796447
+  0.37796447]]
+top ranking features PR:  15
+Words head :                            term      rank
+0  abbreviating journal titles  0.377964
+1       also work journaltitle  0.377964
+2          journal titles also  0.377964
+3         make un abbreviating  0.377964
+4             titles also work  0.377964
+5      un abbreviating journal  0.377964
+6      work journaltitle field  0.377964
+ ------------------- Processing :  ['I ( ) added toggle button journaltitle field editor ( ii ) made abbreviate/unabbreviate actions change journal journaltitle fields . The latter might bit simple-minded -- field consider depend whether Biblatex mode actually turned ?']
+trigrams PR:  15
+Features :  ['abbreviate unabbreviate actions', 'actions change journal', 'added toggle button', 'biblatex mode actually', 'bit simple minded', 'button journaltitle field', 'change journal journaltitle', 'consider depend whether', 'depend whether biblatex', 'editor ii made', 'field consider depend', 'field editor ii', 'fields the latter', 'ii made abbreviate', 'journal journaltitle fields', 'journaltitle field editor', 'journaltitle fields the', 'latter might bit', 'made abbreviate unabbreviate', 'might bit simple', 'minded field consider', 'mode actually turned', 'simple minded field', 'the latter might', 'toggle button journaltitle', 'unabbreviate actions change', 'whether biblatex mode']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+TFIDF PR:  15
+Scores :  [[0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
+  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
+  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
+  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
+  0.19245009 0.19245009 0.19245009]]
+top ranking features PR:  15
+Words head :                                 term     rank
+0   abbreviate unabbreviate actions  0.19245
+14      journal journaltitle fields  0.19245
+25      unabbreviate actions change  0.19245
+24       toggle button journaltitle  0.19245
+23                 the latter might  0.19245
+22              simple minded field  0.19245
+21             mode actually turned  0.19245
