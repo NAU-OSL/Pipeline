@@ -1,178 +1,253 @@
- ------------------- Processing :  ['New Sorting/Export preferences']
-trigrams PR:  1
-Features :  ['new sorting export', 'sorting export preferences']
-X1 :  [[1 1]]
-TFIDF PR:  1
-Scores :  [[0.70710678 0.70710678]]
-top ranking features PR:  1
-Words head :                           term      rank
-0          new sorting export  0.707107
-1  sorting export preferences  0.707107
  ------------------- Processing :  ['This add new File Sorting Tab preferences allows exactly specify sort export order entries rather rather limited set choices available date .']
-trigrams PR:  1
-Features :  ['add new file', 'allows exactly specify', 'choices available date', 'entries rather rather', 'exactly specify sort', 'export order entries', 'file sorting tab', 'limited set choices', 'new file sorting', 'order entries rather', 'preferences allows exactly', 'rather limited set', 'rather rather limited', 'set choices available', 'sort export order', 'sorting tab preferences', 'specify sort export', 'tab preferences allows', 'this add new']
-X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+n grams PR:  1
+Features :  ['add', 'add new', 'add new file', 'add new file sorting', 'allows', 'allows exactly', 'allows exactly specify', 'allows exactly specify sort', 'available', 'available date', 'choices', 'choices available', 'choices available date', 'date', 'entries', 'entries rather', 'entries rather rather', 'entries rather rather limited', 'exactly', 'exactly specify', 'exactly specify sort', 'exactly specify sort export', 'export', 'export order', 'export order entries', 'export order entries rather', 'file', 'file sorting', 'file sorting tab', 'file sorting tab preferences', 'limited', 'limited set', 'limited set choices', 'limited set choices available', 'new', 'new file', 'new file sorting', 'new file sorting tab', 'order', 'order entries', 'order entries rather', 'order entries rather rather', 'preferences', 'preferences allows', 'preferences allows exactly', 'preferences allows exactly specify', 'rather', 'rather limited', 'rather limited set', 'rather limited set choices', 'rather rather', 'rather rather limited', 'rather rather limited set', 'set', 'set choices', 'set choices available', 'set choices available date', 'sort', 'sort export', 'sort export order', 'sort export order entries', 'sorting', 'sorting tab', 'sorting tab preferences', 'sorting tab preferences allows', 'specify', 'specify sort', 'specify sort export', 'specify sort export order', 'tab', 'tab preferences', 'tab preferences allows', 'tab preferences allows exactly', 'this', 'this add', 'this add new', 'this add new file']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1]]
 TFIDF PR:  1
-Scores :  [[0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
-  0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
-  0.22941573 0.22941573 0.22941573 0.22941573 0.22941573 0.22941573
-  0.22941573]]
+Scores :  [[0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.2236068 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034
+  0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034 0.1118034]]
 top ranking features PR:  1
-Words head :                            term      rank
-0                 add new file  0.229416
-10  preferences allows exactly  0.229416
-17      tab preferences allows  0.229416
-16         specify sort export  0.229416
-15     sorting tab preferences  0.229416
-14           sort export order  0.229416
-13       set choices available  0.229416
- ------------------- Processing :  ['I implemented 2 features requested Ticket # 841 .']
-trigrams PR:  7
-Features :  ['features requested ticket', 'implemented features requested', 'requested ticket 841']
-X1 :  [[1 1 1]]
-TFIDF PR:  7
-Scores :  [[0.57735027 0.57735027 0.57735027]]
-top ranking features PR:  7
-Words head :                               term     rank
-0       features requested ticket  0.57735
-1  implemented features requested  0.57735
-2            requested ticket 841  0.57735
+Words head :      pr                        term      rank
+46   1                      rather  0.223607
+0    1                         add  0.111803
+49   1  rather limited set choices  0.111803
+56   1  set choices available date  0.111803
+55   1       set choices available  0.111803
+54   1                 set choices  0.111803
+53   1                         set  0.111803
  ------------------- Processing :  ['The user specify arbitrary number file-link columns te Entry table columns preferences tab added main table . The user file types specified list External File Types . The extra columns work exactly like original file-link column . For file-link column whenever multiple files letter displayed bottom right corner icon . Committer : noravanq On branch master Changes committed : ( use git reset HEAD < file > ... unstage ) modified : src/main/java/net/sf/jabref/GUIGlobals.java modified : src/main/java/net/sf/jabref/JabRefPreferences.java modified : src/main/java/net/sf/jabref/TableColumnsTab.java modified : src/main/java/net/sf/jabref/gui/MainTableFormat.java modified : src/main/java/net/sf/jabref/gui/MainTableSelectionListener.java modified : src/main/java/net/sf/jabref/gui/PreventDraggingJTableHeader.java']
-trigrams PR:  7
-Features :  ['added main table', 'arbitrary number file', 'bottom right corner', 'branch master changes', 'changes committed use', 'column for file', 'column whenever multiple', 'columns preferences tab', 'columns te entry', 'columns work exactly', 'committed use git', 'committer noravanq on', 'corner icon committer', 'displayed bottom right', 'entry table columns', 'exactly like original', 'external file types', 'extra columns work', 'file link column', 'file link columns', 'file types specified', 'file types the', 'file unstage modified', 'files letter displayed', 'for file link', 'git reset head', 'gui maintableformat java', 'gui maintableselectionlistener java', 'gui preventdraggingjtableheader java', 'guiglobals java modified', 'head file unstage', 'icon committer noravanq', 'jabref gui maintableformat', 'jabref gui maintableselectionlistener', 'jabref gui preventdraggingjtableheader', 'jabref guiglobals java', 'jabref jabrefpreferences java', 'jabref tablecolumnstab java', 'jabrefpreferences java modified', 'java modified src', 'java net sf', 'letter displayed bottom', 'like original file', 'link column for', 'link column whenever', 'link columns te', 'list external file', 'main java net', 'main table the', 'maintableformat java modified', 'maintableselectionlistener java modified', 'master changes committed', 'modified src main', 'multiple files letter', 'net sf jabref', 'noravanq on branch', 'number file link', 'on branch master', 'original file link', 'preferences tab added', 'reset head file', 'right corner icon', 'sf jabref gui', 'sf jabref guiglobals', 'sf jabref jabrefpreferences', 'sf jabref tablecolumnstab', 'specified list external', 'specify arbitrary number', 'src main java', 'tab added main', 'table columns preferences', 'table the user', 'tablecolumnstab java modified', 'te entry table', 'the extra columns', 'the user file', 'the user specify', 'types specified list', 'types the extra', 'unstage modified src', 'use git reset', 'user file types', 'user specify arbitrary', 'whenever multiple files', 'work exactly like']
-X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
-  1 1 1 5 6 1 1 1 1 1 1 6 1 1 1 1 6 1 6 1 1 1 1 1 1 1 3 1 1 1 1 1 6 1 1 1
-  1 1 1 1 1 1 1 1 1 1 1 1 1]]
+n grams PR:  7
+Features :  ['added', 'added main', 'added main table', 'added main table the', 'arbitrary', 'arbitrary number', 'arbitrary number file', 'arbitrary number file link', 'bottom', 'bottom right', 'bottom right corner', 'bottom right corner icon', 'branch', 'branch master', 'branch master changes', 'branch master changes committed', 'changes', 'changes committed', 'changes committed use', 'changes committed use git', 'column', 'column for', 'column for file', 'column for file link', 'column whenever', 'column whenever multiple', 'column whenever multiple files', 'columns', 'columns preferences', 'columns preferences tab', 'columns preferences tab added', 'columns te', 'columns te entry', 'columns te entry table', 'columns work', 'columns work exactly', 'columns work exactly like', 'committed', 'committed use', 'committed use git', 'committed use git reset', 'committer', 'committer noravanq', 'committer noravanq on', 'committer noravanq on branch', 'corner', 'corner icon', 'corner icon committer', 'corner icon committer noravanq', 'displayed', 'displayed bottom', 'displayed bottom right', 'displayed bottom right corner', 'entry', 'entry table', 'entry table columns', 'entry table columns preferences', 'exactly', 'exactly like', 'exactly like original', 'exactly like original file', 'external', 'external file', 'external file types', 'external file types the', 'extra', 'extra columns', 'extra columns work', 'extra columns work exactly', 'file', 'file link', 'file link column', 'file link column for', 'file link column whenever', 'file link columns', 'file link columns te', 'file types', 'file types specified', 'file types specified list', 'file types the', 'file types the extra', 'file unstage', 'file unstage modified', 'file unstage modified src', 'files', 'files letter', 'files letter displayed', 'files letter displayed bottom', 'for', 'for file', 'for file link', 'for file link column', 'git', 'git reset', 'git reset head', 'git reset head file', 'gui', 'gui maintableformat', 'gui maintableformat java', 'gui maintableformat java modified', 'gui maintableselectionlistener', 'gui maintableselectionlistener java', 'gui maintableselectionlistener java modified', 'gui preventdraggingjtableheader', 'gui preventdraggingjtableheader java', 'guiglobals', 'guiglobals java', 'guiglobals java modified', 'guiglobals java modified src', 'head', 'head file', 'head file unstage', 'head file unstage modified', 'icon', 'icon committer', 'icon committer noravanq', 'icon committer noravanq on', 'jabref', 'jabref gui', 'jabref gui maintableformat', 'jabref gui maintableformat java', 'jabref gui maintableselectionlistener', 'jabref gui maintableselectionlistener java', 'jabref gui preventdraggingjtableheader', 'jabref gui preventdraggingjtableheader java', 'jabref guiglobals', 'jabref guiglobals java', 'jabref guiglobals java modified', 'jabref jabrefpreferences', 'jabref jabrefpreferences java', 'jabref jabrefpreferences java modified', 'jabref tablecolumnstab', 'jabref tablecolumnstab java', 'jabref tablecolumnstab java modified', 'jabrefpreferences', 'jabrefpreferences java', 'jabrefpreferences java modified', 'jabrefpreferences java modified src', 'java', 'java modified', 'java modified src', 'java modified src main', 'java net', 'java net sf', 'java net sf jabref', 'letter', 'letter displayed', 'letter displayed bottom', 'letter displayed bottom right', 'like', 'like original', 'like original file', 'like original file link', 'link', 'link column', 'link column for', 'link column for file', 'link column whenever', 'link column whenever multiple', 'link columns', 'link columns te', 'link columns te entry', 'list', 'list external', 'list external file', 'list external file types', 'main', 'main java', 'main java net', 'main java net sf', 'main table', 'main table the', 'main table the user', 'maintableformat', 'maintableformat java', 'maintableformat java modified', 'maintableformat java modified src', 'maintableselectionlistener', 'maintableselectionlistener java', 'maintableselectionlistener java modified', 'maintableselectionlistener java modified src', 'master', 'master changes', 'master changes committed', 'master changes committed use', 'modified', 'modified src', 'modified src main', 'modified src main java', 'multiple', 'multiple files', 'multiple files letter', 'multiple files letter displayed', 'net', 'net sf', 'net sf jabref', 'net sf jabref gui', 'net sf jabref guiglobals', 'net sf jabref jabrefpreferences', 'net sf jabref tablecolumnstab', 'noravanq', 'noravanq on', 'noravanq on branch', 'noravanq on branch master', 'number', 'number file', 'number file link', 'number file link columns', 'on', 'on branch', 'on branch master', 'on branch master changes', 'original', 'original file', 'original file link', 'original file link column', 'preferences', 'preferences tab', 'preferences tab added', 'preferences tab added main', 'preventdraggingjtableheader', 'preventdraggingjtableheader java', 'reset', 'reset head', 'reset head file', 'reset head file unstage', 'right', 'right corner', 'right corner icon', 'right corner icon committer', 'sf', 'sf jabref', 'sf jabref gui', 'sf jabref gui maintableformat', 'sf jabref gui maintableselectionlistener', 'sf jabref gui preventdraggingjtableheader', 'sf jabref guiglobals', 'sf jabref guiglobals java', 'sf jabref jabrefpreferences', 'sf jabref jabrefpreferences java', 'sf jabref tablecolumnstab', 'sf jabref tablecolumnstab java', 'specified', 'specified list', 'specified list external', 'specified list external file', 'specify', 'specify arbitrary', 'specify arbitrary number', 'specify arbitrary number file', 'src', 'src main', 'src main java', 'src main java net', 'tab', 'tab added', 'tab added main', 'tab added main table', 'table', 'table columns', 'table columns preferences', 'table columns preferences tab', 'table the', 'table the user', 'table the user file', 'tablecolumnstab', 'tablecolumnstab java', 'tablecolumnstab java modified', 'tablecolumnstab java modified src', 'te', 'te entry', 'te entry table', 'te entry table columns', 'the', 'the extra', 'the extra columns', 'the extra columns work', 'the user', 'the user file', 'the user file types', 'the user specify', 'the user specify arbitrary', 'types', 'types specified', 'types specified list', 'types specified list external', 'types the', 'types the extra', 'types the extra columns', 'unstage', 'unstage modified', 'unstage modified src', 'unstage modified src main', 'use', 'use git', 'use git reset', 'use git reset head', 'user', 'user file', 'user file types', 'user file types specified', 'user specify', 'user specify arbitrary', 'user specify arbitrary number', 'whenever', 'whenever multiple', 'whenever multiple files', 'whenever multiple files letter', 'work', 'work exactly', 'work exactly like', 'work exactly like original']
+X1 :  [[ 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  2  1  1  1
+   1  1  1  3  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  6  3  2
+   1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+   3  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  6  3  1
+   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 12  5  5  5  6  6
+   6  1  1  1  1  1  1  1  1  3  2  1  1  1  1  1  1  1  1  1  1  1  7  6
+   6  6  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  6  6  6  6  1  1  1
+   1  6  6  6  3  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+   1  1  1  1  1  1  1  1  1  1  1  1  1  1  6  6  3  1  1  1  1  1  1  1
+   1  1  1  1  1  1  1  1  1  1  6  6  6  6  1  1  1  1  2  1  1  1  1  1
+   1  1  1  1  1  1  1  1  1  3  1  1  1  2  1  1  1  1  2  1  1  1  1  1
+   1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1]]
 TFIDF PR:  7
-Scores :  [[0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.1164445  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.29111125 0.34933351 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.34933351
-  0.05822225 0.05822225 0.05822225 0.05822225 0.34933351 0.05822225
-  0.34933351 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.17466675 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.34933351 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225 0.05822225 0.05822225 0.05822225 0.05822225 0.05822225
-  0.05822225]]
+Scores :  [[0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.05349047 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.0802357  0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.16047141 0.0802357  0.05349047
+  0.02674523 0.02674523 0.02674523 0.02674523 0.05349047 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.0802357  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.16047141 0.0802357  0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.32094282 0.13372617 0.13372617 0.13372617 0.16047141 0.16047141
+  0.16047141 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.0802357  0.05349047 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.18721664 0.16047141
+  0.16047141 0.16047141 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.16047141
+  0.16047141 0.16047141 0.16047141 0.02674523 0.02674523 0.02674523
+  0.02674523 0.16047141 0.16047141 0.16047141 0.0802357  0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.16047141 0.16047141 0.0802357  0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.16047141 0.16047141
+  0.16047141 0.16047141 0.02674523 0.02674523 0.02674523 0.02674523
+  0.05349047 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.0802357  0.02674523 0.02674523
+  0.02674523 0.05349047 0.02674523 0.02674523 0.02674523 0.02674523
+  0.05349047 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.05349047 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523
+  0.02674523 0.02674523 0.02674523 0.02674523 0.02674523 0.02674523]]
 top ranking features PR:  7
-Words head :                   term      rank
-47      main java net  0.349334
-40        java net sf  0.349334
-68      src main java  0.349334
-52  modified src main  0.349334
-54      net sf jabref  0.349334
-39  java modified src  0.291111
-62      sf jabref gui  0.174667
- ------------------- Processing :  ['try fix obvious bugs groups']
-trigrams PR:  10
-Features :  ['fix obvious bugs', 'obvious bugs groups', 'try fix obvious']
-X1 :  [[1 1 1]]
-TFIDF PR:  10
-Scores :  [[0.57735027 0.57735027 0.57735027]]
-top ranking features PR:  10
-Words head :                    term     rank
-0     fix obvious bugs  0.57735
-1  obvious bugs groups  0.57735
-2      try fix obvious  0.57735
+Words head :       pr               term      rank
+138   7               java  0.320943
+166   7               main  0.187217
+194   7             net sf  0.160471
+142   7           java net  0.160471
+185   7           modified  0.160471
+186   7       modified src  0.160471
+187   7  modified src main  0.160471
  ------------------- Processing :  ['Hi All I upgraded 2.10 I found bugs immediately . 1. right-click-menu move-to-group 2 remove group instead . 2 . I like new add/remove/move panel scrolling working big problem . Because I lots groups even fit full screen height expansion . 3. way expand collapse nodes I tried dev version problems still exist . Here fixation . Cheers W.L .']
-trigrams PR:  10
-Features :  ['10 found bugs', 'add remove move', 'all upgraded 10', 'because lots groups', 'big problem because', 'bugs immediately right', 'click menu move', 'collapse nodes tried', 'dev version problems', 'even fit full', 'exist here fixation', 'expand collapse nodes', 'expansion way expand', 'fit full screen', 'found bugs immediately', 'full screen height', 'group instead like', 'group remove group', 'groups even fit', 'height expansion way', 'here fixation cheers', 'hi all upgraded', 'immediately right click', 'instead like new', 'like new add', 'lots groups even', 'menu move to', 'move panel scrolling', 'move to group', 'new add remove', 'nodes tried dev', 'panel scrolling working', 'problem because lots', 'problems still exist', 'remove group instead', 'remove move panel', 'right click menu', 'screen height expansion', 'scrolling working big', 'still exist here', 'to group remove', 'tried dev version', 'upgraded 10 found', 'version problems still', 'way expand collapse', 'working big problem']
+n grams PR:  10
+Features :  ['10', '10 found', '10 found bugs', '10 found bugs immediately', 'add', 'add remove', 'add remove move', 'add remove move panel', 'all', 'all upgraded', 'all upgraded 10', 'all upgraded 10 found', 'because', 'because lots', 'because lots groups', 'because lots groups even', 'big', 'big problem', 'big problem because', 'big problem because lots', 'bugs', 'bugs immediately', 'bugs immediately right', 'bugs immediately right click', 'cheers', 'click', 'click menu', 'click menu move', 'click menu move to', 'collapse', 'collapse nodes', 'collapse nodes tried', 'collapse nodes tried dev', 'dev', 'dev version', 'dev version problems', 'dev version problems still', 'even', 'even fit', 'even fit full', 'even fit full screen', 'exist', 'exist here', 'exist here fixation', 'exist here fixation cheers', 'expand', 'expand collapse', 'expand collapse nodes', 'expand collapse nodes tried', 'expansion', 'expansion way', 'expansion way expand', 'expansion way expand collapse', 'fit', 'fit full', 'fit full screen', 'fit full screen height', 'fixation', 'fixation cheers', 'found', 'found bugs', 'found bugs immediately', 'found bugs immediately right', 'full', 'full screen', 'full screen height', 'full screen height expansion', 'group', 'group instead', 'group instead like', 'group instead like new', 'group remove', 'group remove group', 'group remove group instead', 'groups', 'groups even', 'groups even fit', 'groups even fit full', 'height', 'height expansion', 'height expansion way', 'height expansion way expand', 'here', 'here fixation', 'here fixation cheers', 'hi', 'hi all', 'hi all upgraded', 'hi all upgraded 10', 'immediately', 'immediately right', 'immediately right click', 'immediately right click menu', 'instead', 'instead like', 'instead like new', 'instead like new add', 'like', 'like new', 'like new add', 'like new add remove', 'lots', 'lots groups', 'lots groups even', 'lots groups even fit', 'menu', 'menu move', 'menu move to', 'menu move to group', 'move', 'move panel', 'move panel scrolling', 'move panel scrolling working', 'move to', 'move to group', 'move to group remove', 'new', 'new add', 'new add remove', 'new add remove move', 'nodes', 'nodes tried', 'nodes tried dev', 'nodes tried dev version', 'panel', 'panel scrolling', 'panel scrolling working', 'panel scrolling working big', 'problem', 'problem because', 'problem because lots', 'problem because lots groups', 'problems', 'problems still', 'problems still exist', 'problems still exist here', 'remove', 'remove group', 'remove group instead', 'remove group instead like', 'remove move', 'remove move panel', 'remove move panel scrolling', 'right', 'right click', 'right click menu', 'right click menu move', 'screen', 'screen height', 'screen height expansion', 'screen height expansion way', 'scrolling', 'scrolling working', 'scrolling working big', 'scrolling working big problem', 'still', 'still exist', 'still exist here', 'still exist here fixation', 'to', 'to group', 'to group remove', 'to group remove group', 'tried', 'tried dev', 'tried dev version', 'tried dev version problems', 'upgraded', 'upgraded 10', 'upgraded 10 found', 'upgraded 10 found bugs', 'version', 'version problems', 'version problems still', 'version problems still exist', 'way', 'way expand', 'way expand collapse', 'way expand collapse nodes', 'working', 'working big', 'working big problem', 'working big problem because']
 X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
-  1 1 1 1 1 1 1 1 1 1]]
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1]]
 TFIDF PR:  10
-Scores :  [[0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196 0.14744196 0.14744196
-  0.14744196 0.14744196 0.14744196 0.14744196]]
+Scores :  [[0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.14433757 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.14433757 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.14433757 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878 0.07216878 0.07216878 0.07216878
+  0.07216878 0.07216878 0.07216878]]
 top ranking features PR:  10
-Words head :                      term      rank
-0          10 found bugs  0.147442
-34  remove group instead  0.147442
-25      lots groups even  0.147442
-26          menu move to  0.147442
-27  move panel scrolling  0.147442
-28         move to group  0.147442
-29        new add remove  0.147442
- ------------------- Processing :  ['BugFix bug # 880 PubMed Import broken']
-trigrams PR:  11
-Features :  ['880 pubmed import', 'bug 880 pubmed', 'bugfix bug 880', 'pubmed import broken']
-X1 :  [[1 1 1 1]]
-TFIDF PR:  11
-Scores :  [[0.5 0.5 0.5 0.5]]
-top ranking features PR:  11
-Words head :                     term  rank
-0     880 pubmed import   0.5
-1        bug 880 pubmed   0.5
-2        bugfix bug 880   0.5
-3  pubmed import broken   0.5
+Words head :       pr                  term      rank
+136  10                remove  0.144338
+109  10                  move  0.144338
+67   10                 group  0.144338
+134  10  problems still exist  0.072169
+133  10        problems still  0.072169
+117  10               new add  0.072169
+118  10        new add remove  0.072169
  ------------------- Processing :  ['Found bug : PubMed/Medline PLAIN format recognized RIS format . Provided solution : - Modified RIS ImportFilter . Now RIS format identified looking TY tag ( mandatory tag RIS format conflictual filters ) - Added new ImportFilter MedlinePlain . This import filter parses Medline files plain format ( XML ) . The import filter produced referring official Medline documentation ( http : //www.nlm.nih.gov/bsd/mms/medlineelements.html ) - Updated net.sf.jabref.core plugin.xml file order include newly added MedlinePlain import filter']
-trigrams PR:  11
-Features :  ['added medlineplain import', 'added new importfilter', 'bsd mms medlineelements', 'bug pubmed medline', 'conflictual filters added', 'core plugin xml', 'documentation http www', 'file order include', 'files plain format', 'filter parses medline', 'filter produced referring', 'filters added new', 'format conflictual filters', 'format identified looking', 'format provided solution', 'format recognized ris', 'format xml the', 'found bug pubmed', 'gov bsd mms', 'html updated net', 'http www nlm', 'identified looking ty', 'import filter parses', 'import filter produced', 'importfilter medlineplain this', 'importfilter now ris', 'include newly added', 'jabref core plugin', 'looking ty tag', 'mandatory tag ris', 'medline documentation http', 'medline files plain', 'medline plain format', 'medlineelements html updated', 'medlineplain import filter', 'medlineplain this import', 'mms medlineelements html', 'modified ris importfilter', 'net sf jabref', 'new importfilter medlineplain', 'newly added medlineplain', 'nih gov bsd', 'nlm nih gov', 'now ris format', 'official medline documentation', 'order include newly', 'parses medline files', 'plain format recognized', 'plain format xml', 'plugin xml file', 'produced referring official', 'provided solution modified', 'pubmed medline plain', 'recognized ris format', 'referring official medline', 'ris format conflictual', 'ris format identified', 'ris format provided', 'ris importfilter now', 'sf jabref core', 'solution modified ris', 'tag mandatory tag', 'tag ris format', 'the import filter', 'this import filter', 'ty tag mandatory', 'updated net sf', 'www nlm nih', 'xml file order', 'xml the import']
-X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
-  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+n grams PR:  11
+Features :  ['added', 'added medlineplain', 'added medlineplain import', 'added medlineplain import filter', 'added new', 'added new importfilter', 'added new importfilter medlineplain', 'bsd', 'bsd mms', 'bsd mms medlineelements', 'bsd mms medlineelements html', 'bug', 'bug pubmed', 'bug pubmed medline', 'bug pubmed medline plain', 'conflictual', 'conflictual filters', 'conflictual filters added', 'conflictual filters added new', 'core', 'core plugin', 'core plugin xml', 'core plugin xml file', 'documentation', 'documentation http', 'documentation http www', 'documentation http www nlm', 'file', 'file order', 'file order include', 'file order include newly', 'files', 'files plain', 'files plain format', 'files plain format xml', 'filter', 'filter parses', 'filter parses medline', 'filter parses medline files', 'filter produced', 'filter produced referring', 'filter produced referring official', 'filters', 'filters added', 'filters added new', 'filters added new importfilter', 'format', 'format conflictual', 'format conflictual filters', 'format conflictual filters added', 'format identified', 'format identified looking', 'format identified looking ty', 'format provided', 'format provided solution', 'format provided solution modified', 'format recognized', 'format recognized ris', 'format recognized ris format', 'format xml', 'format xml the', 'format xml the import', 'found', 'found bug', 'found bug pubmed', 'found bug pubmed medline', 'gov', 'gov bsd', 'gov bsd mms', 'gov bsd mms medlineelements', 'html', 'html updated', 'html updated net', 'html updated net sf', 'http', 'http www', 'http www nlm', 'http www nlm nih', 'identified', 'identified looking', 'identified looking ty', 'identified looking ty tag', 'import', 'import filter', 'import filter parses', 'import filter parses medline', 'import filter produced', 'import filter produced referring', 'importfilter', 'importfilter medlineplain', 'importfilter medlineplain this', 'importfilter medlineplain this import', 'importfilter now', 'importfilter now ris', 'importfilter now ris format', 'include', 'include newly', 'include newly added', 'include newly added medlineplain', 'jabref', 'jabref core', 'jabref core plugin', 'jabref core plugin xml', 'looking', 'looking ty', 'looking ty tag', 'looking ty tag mandatory', 'mandatory', 'mandatory tag', 'mandatory tag ris', 'mandatory tag ris format', 'medline', 'medline documentation', 'medline documentation http', 'medline documentation http www', 'medline files', 'medline files plain', 'medline files plain format', 'medline plain', 'medline plain format', 'medline plain format recognized', 'medlineelements', 'medlineelements html', 'medlineelements html updated', 'medlineelements html updated net', 'medlineplain', 'medlineplain import', 'medlineplain import filter', 'medlineplain this', 'medlineplain this import', 'medlineplain this import filter', 'mms', 'mms medlineelements', 'mms medlineelements html', 'mms medlineelements html updated', 'modified', 'modified ris', 'modified ris importfilter', 'modified ris importfilter now', 'net', 'net sf', 'net sf jabref', 'net sf jabref core', 'new', 'new importfilter', 'new importfilter medlineplain', 'new importfilter medlineplain this', 'newly', 'newly added', 'newly added medlineplain', 'newly added medlineplain import', 'nih', 'nih gov', 'nih gov bsd', 'nih gov bsd mms', 'nlm', 'nlm nih', 'nlm nih gov', 'nlm nih gov bsd', 'now', 'now ris', 'now ris format', 'now ris format identified', 'official', 'official medline', 'official medline documentation', 'official medline documentation http', 'order', 'order include', 'order include newly', 'order include newly added', 'parses', 'parses medline', 'parses medline files', 'parses medline files plain', 'plain', 'plain format', 'plain format recognized', 'plain format recognized ris', 'plain format xml', 'plain format xml the', 'plugin', 'plugin xml', 'plugin xml file', 'plugin xml file order', 'produced', 'produced referring', 'produced referring official', 'produced referring official medline', 'provided', 'provided solution', 'provided solution modified', 'provided solution modified ris', 'pubmed', 'pubmed medline', 'pubmed medline plain', 'pubmed medline plain format', 'recognized', 'recognized ris', 'recognized ris format', 'recognized ris format provided', 'referring', 'referring official', 'referring official medline', 'referring official medline documentation', 'ris', 'ris format', 'ris format conflictual', 'ris format conflictual filters', 'ris format identified', 'ris format identified looking', 'ris format provided', 'ris format provided solution', 'ris importfilter', 'ris importfilter now', 'ris importfilter now ris', 'sf', 'sf jabref', 'sf jabref core', 'sf jabref core plugin', 'solution', 'solution modified', 'solution modified ris', 'solution modified ris importfilter', 'tag', 'tag mandatory', 'tag mandatory tag', 'tag mandatory tag ris', 'tag ris', 'tag ris format', 'tag ris format conflictual', 'the', 'the import', 'the import filter', 'the import filter produced', 'this', 'this import', 'this import filter', 'this import filter parses', 'ty', 'ty tag', 'ty tag mandatory', 'ty tag mandatory tag', 'updated', 'updated net', 'updated net sf', 'updated net sf jabref', 'www', 'www nlm', 'www nlm nih', 'www nlm nih gov', 'xml', 'xml file', 'xml file order', 'xml file order include', 'xml the', 'xml the import', 'xml the import filter']
+X1 :  [[2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3
+  1 1 1 1 1 1 1 1 1 1 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 3 3 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 3 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2
+  1 1 1 1 1 1]]
 TFIDF PR:  11
-Scores :  [[0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286 0.11952286 0.11952286
-  0.11952286 0.11952286 0.11952286 0.11952286]]
+Scores :  [[0.10570328 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.15855493
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.26425821 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.15855493 0.15855493
+  0.05285164 0.05285164 0.05285164 0.05285164 0.10570328 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.15855493 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.10570328
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.10570328 0.10570328 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.21140657 0.15855493 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.10570328 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.10570328
+  0.05285164 0.05285164 0.05285164 0.05285164 0.05285164 0.05285164]]
 top ranking features PR:  11
-Words head :                                term      rank
-0        added medlineplain import  0.119523
-44  official medline documentation  0.119523
-50     produced referring official  0.119523
-49                 plugin xml file  0.119523
-48                plain format xml  0.119523
-47         plain format recognized  0.119523
-46            parses medline files  0.119523
- ------------------- Processing :  ['Make ( un ) abbreviating journal titles also work journaltitle field']
-trigrams PR:  15
-Features :  ['abbreviating journal titles', 'also work journaltitle', 'journal titles also', 'make un abbreviating', 'titles also work', 'un abbreviating journal', 'work journaltitle field']
-X1 :  [[1 1 1 1 1 1 1]]
-TFIDF PR:  15
-Scores :  [[0.37796447 0.37796447 0.37796447 0.37796447 0.37796447 0.37796447
-  0.37796447]]
-top ranking features PR:  15
-Words head :                            term      rank
-0  abbreviating journal titles  0.377964
-1       also work journaltitle  0.377964
-2          journal titles also  0.377964
-3         make un abbreviating  0.377964
-4             titles also work  0.377964
-5      un abbreviating journal  0.377964
-6      work journaltitle field  0.377964
+Words head :       pr           term      rank
+46   11         format  0.264258
+205  11            ris  0.211407
+111  11        medline  0.158555
+82   11         import  0.158555
+206  11     ris format  0.158555
+83   11  import filter  0.158555
+35   11         filter  0.158555
  ------------------- Processing :  ['I ( ) added toggle button journaltitle field editor ( ii ) made abbreviate/unabbreviate actions change journal journaltitle fields . The latter might bit simple-minded -- field consider depend whether Biblatex mode actually turned ?']
-trigrams PR:  15
-Features :  ['abbreviate unabbreviate actions', 'actions change journal', 'added toggle button', 'biblatex mode actually', 'bit simple minded', 'button journaltitle field', 'change journal journaltitle', 'consider depend whether', 'depend whether biblatex', 'editor ii made', 'field consider depend', 'field editor ii', 'fields the latter', 'ii made abbreviate', 'journal journaltitle fields', 'journaltitle field editor', 'journaltitle fields the', 'latter might bit', 'made abbreviate unabbreviate', 'might bit simple', 'minded field consider', 'mode actually turned', 'simple minded field', 'the latter might', 'toggle button journaltitle', 'unabbreviate actions change', 'whether biblatex mode']
-X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
+n grams PR:  15
+Features :  ['abbreviate', 'abbreviate unabbreviate', 'abbreviate unabbreviate actions', 'abbreviate unabbreviate actions change', 'actions', 'actions change', 'actions change journal', 'actions change journal journaltitle', 'actually', 'actually turned', 'added', 'added toggle', 'added toggle button', 'added toggle button journaltitle', 'biblatex', 'biblatex mode', 'biblatex mode actually', 'biblatex mode actually turned', 'bit', 'bit simple', 'bit simple minded', 'bit simple minded field', 'button', 'button journaltitle', 'button journaltitle field', 'button journaltitle field editor', 'change', 'change journal', 'change journal journaltitle', 'change journal journaltitle fields', 'consider', 'consider depend', 'consider depend whether', 'consider depend whether biblatex', 'depend', 'depend whether', 'depend whether biblatex', 'depend whether biblatex mode', 'editor', 'editor ii', 'editor ii made', 'editor ii made abbreviate', 'field', 'field consider', 'field consider depend', 'field consider depend whether', 'field editor', 'field editor ii', 'field editor ii made', 'fields', 'fields the', 'fields the latter', 'fields the latter might', 'ii', 'ii made', 'ii made abbreviate', 'ii made abbreviate unabbreviate', 'journal', 'journal journaltitle', 'journal journaltitle fields', 'journal journaltitle fields the', 'journaltitle', 'journaltitle field', 'journaltitle field editor', 'journaltitle field editor ii', 'journaltitle fields', 'journaltitle fields the', 'journaltitle fields the latter', 'latter', 'latter might', 'latter might bit', 'latter might bit simple', 'made', 'made abbreviate', 'made abbreviate unabbreviate', 'made abbreviate unabbreviate actions', 'might', 'might bit', 'might bit simple', 'might bit simple minded', 'minded', 'minded field', 'minded field consider', 'minded field consider depend', 'mode', 'mode actually', 'mode actually turned', 'simple', 'simple minded', 'simple minded field', 'simple minded field consider', 'the', 'the latter', 'the latter might', 'the latter might bit', 'toggle', 'toggle button', 'toggle button journaltitle', 'toggle button journaltitle field', 'turned', 'unabbreviate', 'unabbreviate actions', 'unabbreviate actions change', 'unabbreviate actions change journal', 'whether', 'whether biblatex', 'whether biblatex mode', 'whether biblatex mode actually']
+X1 :  [[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]
 TFIDF PR:  15
-Scores :  [[0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
-  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
-  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
-  0.19245009 0.19245009 0.19245009 0.19245009 0.19245009 0.19245009
-  0.19245009 0.19245009 0.19245009]]
+Scores :  [[0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.18731716 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.18731716 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858
+  0.09365858 0.09365858 0.09365858 0.09365858 0.09365858 0.09365858]]
 top ranking features PR:  15
-Words head :                                 term     rank
-0   abbreviate unabbreviate actions  0.19245
-14      journal journaltitle fields  0.19245
-25      unabbreviate actions change  0.19245
-24       toggle button journaltitle  0.19245
-23                 the latter might  0.19245
-22              simple minded field  0.19245
-21             mode actually turned  0.19245
+Words head :      pr                     term      rank
+61  15             journaltitle  0.187317
+42  15                    field  0.187317
+0   15               abbreviate  0.093659
+69  15             latter might  0.093659
+79  15  might bit simple minded  0.093659
+78  15         might bit simple  0.093659
+77  15                might bit  0.093659
