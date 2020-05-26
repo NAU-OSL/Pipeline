@@ -1,0 +1,9 @@
+This will add a new "File Sorting" Tab to the preferences that allows to exactly specify the sort and export order of entries, rather than the rather limited set of choices that were available to date.
+After checking the bug '1248 Key bindings not modified', it was Identified que the creation of the hashmap list 'defKeyBinds' that sets the standard keyboard shortcuts, the feature 'Open folder' was not included in the 'defineDefaultKeyBindings ( )' method in 'JabRefPreferences' class .
+In the creation of the menu item in the 'JabRefFrame' class for the item 'Open folder', it was not possible to recover the value of the item in the list 'defKeyBinds', occurring error 'NullPointerException' in the 'String makeEscape (String s) 'method in 'JabRefPreferences' class, which shouldnt return the value of 'String' to fill out the menu item.
+When the 'User' tried to change and save the list, the error 'NullPointerException' not allow the execution of the procedure.
+To solve the bug , was included in the verification of the presence of null in 'keyBinds' list (copy of 'defKeyBinds'), the value 'Not associated' being passed to the 'String' return.
+The warning that menu feature is created in the 'JabRefFrame' class without associated keyboard shortcut, was moved to the method mentioned before, as was duplicated.
+ 
+DBLP seems to send `<pre class="verbatim select-on-click">` now instead of only `<pre>`.
+ 
